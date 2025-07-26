@@ -4,6 +4,6 @@
 
 layout: home
 title: Последние записи
-list_title: Мы пишем для себя
+list_title: Мы пишем для себя и для вас
 ---
 
