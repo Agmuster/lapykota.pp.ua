@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://lapykota.pp.ua/sitemap.xml
+Disallow: /
