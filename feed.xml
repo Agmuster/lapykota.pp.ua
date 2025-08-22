@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Łapy Kota</title>
+    <link href="https://lapykota.pp.ua/feed.xml" rel="self" />
+    <link href="https://lapykota.pp.ua" />
+    <updated>2025-08-22T14:14:39+03:00</updated>
+    <author>
+        <name>Oleg</name>
+    </author>
+    <id>https://lapykota.pp.ua</id>
+
+    <entry>
+        <title>The first post</title>
+        <author>
+            <name>Oleg</name>
+        </author>
+        <link href="https://lapykota.pp.ua/the-first-post.html"/>
+        <id>https://lapykota.pp.ua/the-first-post.html</id>
+
+        <updated>2025-08-22T14:14:39+03:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the first post. Cheers!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the first post.</p>
+<p>Cheers!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
