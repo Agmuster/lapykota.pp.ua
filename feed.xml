@@ -3,12 +3,32 @@
     <title>Łapy Kota</title>
     <link href="https://lapykota.pp.ua/feed.xml" rel="self" />
     <link href="https://lapykota.pp.ua" />
-    <updated>2025-08-22T14:14:39+03:00</updated>
+    <updated>2025-08-22T17:21:30+03:00</updated>
     <author>
         <name>Oleg</name>
     </author>
     <id>https://lapykota.pp.ua</id>
 
+    <entry>
+        <title>The second post</title>
+        <author>
+            <name>Oleg</name>
+        </author>
+        <link href="https://lapykota.pp.ua/the-second-post.html"/>
+        <id>https://lapykota.pp.ua/the-second-post.html</id>
+
+        <updated>2025-08-22T17:21:30+03:00</updated>
+            <summary>
+                <![CDATA[
+                    My second post's text
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My second post's text</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The first post</title>
         <author>
